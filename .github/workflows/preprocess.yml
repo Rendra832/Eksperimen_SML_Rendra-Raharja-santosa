@@ -24,4 +24,4 @@ jobs:
 
       - name: Run preprocessing script
         run: |
-          python preprocessing/automate_Rendra Raharja S.py
+          python preprocessing/automate_Rendra_Raharja_Santosa.py
